@@ -1,1 +1,2 @@
 # K-means-Clustering---Unsupervised-Machine-Learning
+This project showcases the implementation of K-means Clustering on the IRIS dataset using Python. The IRIS dataset includes 50 samples from three distinct Iris species: Iris setosa, Iris virginica, and Iris versicolor. Each sample is characterized by four features, namely the length and width of sepals and petals. By applying the K-means Clustering method, this project demonstrates the grouping of the IRIS dataset based on these features.
